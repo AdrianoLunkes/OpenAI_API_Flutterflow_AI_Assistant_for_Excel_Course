@@ -1,0 +1,24 @@
+key: Container_cwfd9kd5
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+      height:
+        percentOfScreenSizeValue:
+          inputValue: 27.414348462664712
+    boxDecoration:
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 20
+  opacity:
+    opacityValue:
+      inputValue: 1

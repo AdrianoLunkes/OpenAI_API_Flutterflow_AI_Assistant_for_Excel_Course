@@ -1,0 +1,6 @@
+key: Stack_sxgoz4pf
+type: Stack
+props:
+  padding:
+    type: FF_PADDING_ALL
+  stack: {}

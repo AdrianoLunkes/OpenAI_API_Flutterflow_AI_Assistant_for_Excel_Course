@@ -1,0 +1,36 @@
+key: Button_dqu8azle
+type: Button
+props:
+  button:
+    text:
+      themeStyle: TITLE_SMALL
+      textValue:
+        inputValue: Ask AI
+      colorValue:
+        inputValue:
+          value: "4294967295"
+    iconPadding:
+      type: FF_PADDING_ALL
+    borderRadius:
+      type: FF_BORDER_RADIUS_ALL
+      allValue:
+        inputValue: 8
+    innerPadding:
+      leftValue:
+        inputValue: 16
+      rightValue:
+        inputValue: 16
+    dimensions:
+      height:
+        pixelsValue:
+          inputValue: 40
+    elevationValue:
+      inputValue: 0
+    fillColorValue:
+      inputValue:
+        themeColor: PRIMARY
+  alignment:
+    xValue:
+      inputValue: -0.015
+    yValue:
+      inputValue: 0.934

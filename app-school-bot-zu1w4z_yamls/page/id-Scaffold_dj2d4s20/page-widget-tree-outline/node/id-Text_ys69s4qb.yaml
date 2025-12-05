@@ -1,0 +1,20 @@
+key: Text_ys69s4qb
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    selectable: false
+    textValue:
+      inputValue: The answer from the prompt
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 30
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}

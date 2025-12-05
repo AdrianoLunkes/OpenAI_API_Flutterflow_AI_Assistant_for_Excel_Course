@@ -1,0 +1,40 @@
+key: Text_lxlply1m
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      variable:
+        source: ACTION_OUTPUTS
+        defaultValue:
+          serializedValue: " Answer"
+        baseVariable:
+          actionOutput:
+            outputVariableIdentifier:
+              name: apiResultpws
+            actionKeyRef:
+              key: w266vzs7
+        operations:
+          - apiResponseField:
+              responseField: JSON_BODY
+          - predefinedJsonPathOperation:
+              definedPathIdentifier:
+                name: Answer
+                key: u97lvk50
+        nodeKeyRef:
+          key: Button_dqu8azle
+        actionComponentKeyRef: {}
+  padding:
+    type: FF_PADDING_ONLY
+    leftValue:
+      inputValue: 30
+    topValue:
+      inputValue: 40
+    allValue:
+      inputValue: 30
+  alignment:
+    xValue:
+      inputValue: -0.995
+    yValue:
+      inputValue: -0.78

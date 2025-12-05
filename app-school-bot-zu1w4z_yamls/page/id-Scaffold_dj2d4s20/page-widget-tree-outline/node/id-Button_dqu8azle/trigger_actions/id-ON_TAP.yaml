@@ -1,0 +1,32 @@
+rootAction:
+  key: ov6wv7ku
+  action:
+    key: w266vzs7
+  followUpAction:
+    key: qcxgbg9w
+    conditionActions:
+      falseAction:
+        key: viav08pg
+        action:
+          key: ble2mp4h
+      trueActions:
+        - condition:
+            variable:
+              source: ACTION_OUTPUTS
+              baseVariable:
+                actionOutput:
+                  outputVariableIdentifier:
+                    name: apiResultpws
+                  actionKeyRef:
+                    key: w266vzs7
+              operations:
+                - apiResponseField:
+                    responseField: SUCCEEDED
+              nodeKeyRef:
+                key: Button_dqu8azle
+          trueAction:
+            key: fco9yvcj
+            action:
+              key: 2w3djabv
+trigger:
+  triggerType: ON_TAP

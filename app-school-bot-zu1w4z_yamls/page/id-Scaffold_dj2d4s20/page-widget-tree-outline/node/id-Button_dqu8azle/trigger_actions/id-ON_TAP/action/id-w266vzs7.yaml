@@ -1,0 +1,27 @@
+database:
+  apiCall:
+    endpointIdentifier:
+      name: OpenAI API  SchoolBot
+      key: ko6ls
+    variables:
+      - variableIdentifier:
+          name: PROMPT
+          key: 4f13mpl5
+        variable:
+          source: WIDGET_STATE
+          baseVariable:
+            widgetState:
+              returnParameter:
+                allowedDestinationTypes:
+                  - Integer
+                  - Double
+                  - Boolean
+                  - ImagePath
+                  - VideoPath
+                  - AudioPath
+                dataType:
+                  scalarType: String
+          nodeKeyRef:
+            key: TextField_2dod5jgx
+outputVariableName: apiResultpws
+key: w266vzs7

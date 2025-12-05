@@ -1,0 +1,19 @@
+key: Text_ni52s72c
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: "Write the Excel question:"
+    fontSizeValue:
+      inputValue: 20
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 20
+  alignment:
+    xValue:
+      inputValue: -0.983
+    yValue:
+      inputValue: -0.543

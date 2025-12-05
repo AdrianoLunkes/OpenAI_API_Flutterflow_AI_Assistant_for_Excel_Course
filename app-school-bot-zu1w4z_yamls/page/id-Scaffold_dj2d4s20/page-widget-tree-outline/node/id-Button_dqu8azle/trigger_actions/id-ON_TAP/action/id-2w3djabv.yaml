@@ -1,0 +1,20 @@
+snackBar:
+  textMessage:
+    inputValue:
+      serializedValue: Successful Request
+  textStyle:
+    variableColor:
+      inputValue:
+        color:
+          themeColor: PRIMARY_TEXT
+  durationMillis: 4000
+  subAction:
+    action:
+      navigate:
+        allowBack: true
+  shouldHidePreviousSnackbar: false
+  backgroundColor:
+    inputValue:
+      color:
+        themeColor: SECONDARY
+key: 2w3djabv

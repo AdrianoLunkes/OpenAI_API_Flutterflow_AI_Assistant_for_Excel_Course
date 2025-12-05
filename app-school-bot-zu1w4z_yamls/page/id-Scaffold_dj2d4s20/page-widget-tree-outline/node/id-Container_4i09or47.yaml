@@ -1,0 +1,21 @@
+key: Container_4i09or47
+type: Container
+props:
+  container:
+    dimensions:
+      width:
+        pixelsValue:
+          inputValue: Infinity
+      height:
+        pixelsValue:
+          inputValue: 811.9555013020832
+    boxDecoration:
+      colorValue:
+        inputValue:
+          themeColor: SECONDARY_BACKGROUND
+    animationDurationValue:
+      inputValue: 100
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 30

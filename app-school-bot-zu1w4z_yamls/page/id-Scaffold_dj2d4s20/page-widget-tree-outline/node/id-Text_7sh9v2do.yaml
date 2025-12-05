@@ -1,0 +1,12 @@
+key: Text_7sh9v2do
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    textValue:
+      inputValue: "SchoolBot: Doubt Assistance"
+    fontSizeValue:
+      inputValue: 22
+    colorValue:
+      inputValue:
+        value: "4294967295"

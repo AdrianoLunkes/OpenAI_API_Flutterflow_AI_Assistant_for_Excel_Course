@@ -1,0 +1,25 @@
+key: Text_izptp29e
+type: Text
+props:
+  text:
+    themeStyle: TITLE_LARGE
+    selectable: false
+    textValue:
+      inputValue: First Application in Flutterflow with OpenAI API Integration
+    textAlignValue:
+      inputValue: ALIGN_CENTER
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 20
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -1
+  responsiveVisibility: {}
+  opacity:
+    opacityValue:
+      inputValue: 1
+    animatedOpacity: {}
+valueKey: {}
